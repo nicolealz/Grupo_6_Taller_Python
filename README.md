@@ -1,7 +1,7 @@
 # Grupo_6_Taller_Python
 
 
-##Tarea
+## Tarea
 
 Este repositorio contiene
 - GRUPO_6_TAREA1
